@@ -1,4 +1,3 @@
 git add .
-git commit -m "first commit"
-git push -u origin main
-pause
+git commit -m "Todays file is committed"
+git push
